@@ -1,0 +1,13 @@
+﻿global using Mapster;
+global using RegisterationTask.Dto;
+global using RegisterationTask.Models;
+global using Microsoft.AspNetCore.Identity;
+global using FluentValidation;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using System.Reflection;
+global using RegisterationTask;
+global using FluentValidation.AspNetCore;
+global using MapsterMapper;
+global using RegisterationTask.Abstractions;
+global using RegisterationTask.Services;
